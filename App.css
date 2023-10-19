@@ -1,0 +1,19 @@
+.post{
+  padding: 5px 10px;
+  background-color: #35495e;
+  color: white;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  padding: 4px 10px;
+}
+
+.data{
+  padding: 5px 10px;
+  background-color: #35495e;
+  color: white;
+}
+
+.N{
+  font-weight: 800;
+}
